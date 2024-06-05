@@ -4,7 +4,7 @@ Kasada SDK full solver
 reversed kasada anti bot vm 
 
 cd & ct 
-decent solve speed 
+decent solve speed, more threads will be faster 
 
 contact me on discord if your interested @red.heron
 
