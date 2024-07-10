@@ -1,5 +1,5 @@
 # kasada-solver
-Kasada SDK full solver
+Kasada SDK full solver [Still working]
 
 reversed kasada anti bot vm 
 
